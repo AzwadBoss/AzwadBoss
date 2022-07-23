@@ -5,5 +5,6 @@
 - 📫 How to reach me azwadmishkat@gmail.com
 Music is an everyday task - https://open.spotify.com/user/21iigxbtzybedv2xpnvhfh5rq?si=b2ae277d0212470b (Spotify)
 Facebook - https://www.facebook.com/azwad06/
+Discord - AzwadBoss#8331
 
 <!- One of a kind
