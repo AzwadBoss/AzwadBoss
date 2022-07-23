@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzwadBoss
 - 👀 I’m interested in building new projects 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,HTML,JAVA Sript and more.
 - 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me azwadmishkat@gmail.com
 
