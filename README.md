@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AzwadBoss
 - 👀 I’m interested in building new projects 
-- 🌱 I’m currently learning C++,HTML,JAVA Sript and more.
-- 💞️ I’m looking to collaborate with Google
+- 🌱 I’m currently learning CYSA and application program like Word processors, Game programs, Spreadsheets Data base systems, Graphics programs, Web browsers on the other side I am mastering system programs ex. Operating system like Networking system. Database system. Programming language software. Web site server. Data backup.
+- 💞️ I’m looking to collaborate with Google or Amazon
 - 📫 How to reach me azwadmishkat@gmail.com
 
-<!---
-AzwadBoss/AzwadBoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!- One of a kind
